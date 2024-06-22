@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "node-media-server": "^2.7.0",
+    "path": "^0.12.7",
+    "socket.io": "^4.7.5",
+    "ws": "^8.17.0"
+  },
+  "name": "streambox-server",
+  "version": "1.0.0",
+  "description": "A server for StreamBox irl streaming ecosystem",
+  "main": "index.ts",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BOT-K4CP3R/"
+  },
+  "keywords": [
+    "streambox"
+  ],
+  "author": "botk4cp3r",
+  "license": "MIT"
+}
